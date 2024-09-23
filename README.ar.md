@@ -1,6 +1,6 @@
 نمط المصنع
 
-# نمط المصنع
+# Factory Pattern
 
 بناءً على "نمط المصنع" في<https://www.abc.com/>
 
@@ -10,11 +10,15 @@
 
 استنادًا إلى "Flask SQLAlchemy at Scale"<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
+بناءً على "أنماط التصميم" في<https://github.com/vanHeemstraSystems/design-patterns-headstart>
+
+بناءً على "ما هي أنماط التصميم" في<https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f>
+
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
