@@ -1,8 +1,14 @@
-اسم المستودع
+نمط المصنع
 
-# اسم المستودع
+# نمط المصنع
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+بناءً على "نمط المصنع" في<https://www.abc.com/>
+
+بناء على "مصنع مجردة" في<https://refactoring.guru/design-patterns/abstract-factory>
+
+بناءً على "طريقة المصنع" في<https://refactoring.guru/design-patterns/factory-method>
+
+استنادًا إلى "Flask SQLAlchemy at Scale"<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
 ## 100- مقدمة
 
@@ -18,4 +24,4 @@
 
 ## 400 - الخاتمة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
