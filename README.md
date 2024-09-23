@@ -1,7 +1,13 @@
-repository-name
-# Repository Name
+factory-pattern
+# Factory Pattern
 
-Based on "ABC" at https://www.abc.com/
+Based on "Factory Pattern" at https://www.abc.com/
+
+Based on "Abstract Factory" at https://refactoring.guru/design-patterns/abstract-factory
+
+Based on "Factory Method" at https://refactoring.guru/design-patterns/factory-method
+
+Based on "Flask SQLAlchemy at Scale" https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale
 
 ## 100 - Introduction
 
