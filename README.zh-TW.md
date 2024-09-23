@@ -1,6 +1,6 @@
-repository-name
+儲存庫名稱
 
-# 儲存庫名稱
+# Repository Name
 
 基於“ABC”<https://www.abc.com/>
 
