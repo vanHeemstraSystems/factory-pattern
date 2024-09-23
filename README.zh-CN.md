@@ -1,8 +1,14 @@
-存储库名称
+工厂模式
 
-# 存储库名称
+# 工厂模式
 
-Based on "ABC" at <https://www.abc.com/>
+基于“工厂模式”<https://www.abc.com/>
+
+Based on "Abstract Factory" at <https://refactoring.guru/design-patterns/abstract-factory>
+
+基于“工厂方法”<https://refactoring.guru/design-patterns/factory-method>
+
+基于“大规模 Flask SQLAlchemy”<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
 ## 100 - 简介
 
@@ -14,7 +20,7 @@ Based on "ABC" at <https://www.abc.com/>
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
