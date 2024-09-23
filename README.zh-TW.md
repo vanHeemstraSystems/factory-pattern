@@ -1,8 +1,14 @@
-儲存庫名稱
+工廠模式
 
-# Repository Name
+# 工廠模式
 
-基於“ABC”<https://www.abc.com/>
+基於“工廠模式”<https://www.abc.com/>
+
+基於“抽象工廠”<https://refactoring.guru/design-patterns/abstract-factory>
+
+基於“工廠方法”<https://refactoring.guru/design-patterns/factory-method>
+
+基於“大規模 Flask SQLAlchemy”<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
 ## 100 - 簡介
 
