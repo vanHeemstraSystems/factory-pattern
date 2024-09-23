@@ -1,14 +1,20 @@
-भंडार-नाम
+फ़ैक्टरी-पैटर्न
 
-# भंडार का नाम
+# फ़ैक्टरी पैटर्न
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+"फ़ैक्टरी पैटर्न" पर आधारित<https://www.abc.com/>
 
-## 100 - Introduction
+"सार फ़ैक्टरी" पर आधारित<https://refactoring.guru/design-patterns/abstract-factory>
+
+Based on "Factory Method" at <https://refactoring.guru/design-patterns/factory-method>
+
+"फ्लास्क SQLAlchemy एट स्केल" पर आधारित<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
+
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
