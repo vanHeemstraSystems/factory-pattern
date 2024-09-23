@@ -10,7 +10,11 @@
 
 基於“大規模 Flask SQLAlchemy”<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
-## 100 - 簡介
+基於“設計模式”<https://github.com/vanHeemstraSystems/design-patterns-headstart>
+
+基於“什麼是設計模式”<https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f>
+
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
@@ -22,6 +26,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400 - Conclusion
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
