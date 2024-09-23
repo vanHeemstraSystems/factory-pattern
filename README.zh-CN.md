@@ -10,11 +10,15 @@ Based on "Abstract Factory" at <https://refactoring.guru/design-patterns/abstrac
 
 基于“大规模 Flask SQLAlchemy”<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
+基于“设计模式”<https://github.com/vanHeemstraSystems/design-patterns-headstart>
+
+基于“什么是设计模式”<https://www.youtube.com/watch?v=BWprw8UHIzA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f>
+
 ## 100 - 简介
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
