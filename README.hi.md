@@ -4,11 +4,11 @@
 
 "एबीसी" पर आधारित<https://www.abc.com/>
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
-## 200 - आवश्यकताएँ
+## 200 - Requirements
 
 देखना[README.md](./200/README.md)
 
