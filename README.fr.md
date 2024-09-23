@@ -1,12 +1,18 @@
-nom du référentiel
+modèle d'usine
 
-# Nom du référentiel
+# Modèle d'usine
 
-Basé sur "ABC" à<https://www.abc.com/>
+Basé sur le « modèle d'usine » à<https://www.abc.com/>
+
+Basé sur "Abstract Factory" à<https://refactoring.guru/design-patterns/abstract-factory>
+
+Basé sur la « méthode d'usine » à<https://refactoring.guru/design-patterns/factory-method>
+
+Basé sur "Flask SQLAlchemy à grande échelle"<https://github.com/vanHeemstraSystems/flask-sqlalchemy-at-scale>
 
 ## 100 - Introduction
 
-Voir[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Exigences
 
